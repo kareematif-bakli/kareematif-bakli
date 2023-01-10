@@ -22,11 +22,6 @@
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 <br>
 <hr>
@@ -52,12 +47,3 @@
         <img src="assets\github.svg" width="30px">
     </a>&nbsp;&nbsp;
 </div>
-<hr>
-<br>
-<div >
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=vipul-shinde&count_private=true&show_icons=true&theme=radical"  width="400px" alt="vipul-shinde">
-    &nbsp;&nbsp;
-    &nbsp;&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipul-shinde&layout=compact&theme=radical"  width="350px" alt="vipul-shinde">
-</div>
-
