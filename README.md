@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Kareem 👋
 
 <h3 align="center"><em>Learning Data Science is like going to the gym. You only benefit if you do it consistently.💯</em></h3>
 
@@ -8,7 +8,7 @@
 <img align="right" src="https://media.giphy.com/media/8DTnuPhxv0m4w/giphy.gif" height="150px" width="200px">
 <h3>🚀 Some things you should know 👇</h3>
 <ul>
-<li>👨‍🔬 I'm working as a <em>Research Data Scientist</em></li>
+<li>👨‍🔬 I'm working as a <em>Freelance Research Data Scientist</em></li>
 <li>👨‍🎓 Learning every day. I believe sharing is the best way of learning.</li>
 </ul>
 <hr>
