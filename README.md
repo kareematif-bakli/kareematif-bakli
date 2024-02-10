@@ -1,6 +1,6 @@
 ### Hi I'm Kareem 👋
 
-<h3 align="center"><em>Learning Data Science is like going to the gym. You only benefit if you do it consistently.💯</em></h3>
+<h3 align="center"><em>Learning is like going to the gym. You only benefit if you do it consistently.💯</em></h3>
 
 <p>Business Intelligence Analyst  with a Master of Engineering from the University of Ottawa. Interested to be part of a Data Analysis team that works on a real data project. I have experience in Data Analysis , SQL, PL/SQL,Power BI,Tableau and Excel .</p>
 
